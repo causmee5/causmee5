@@ -5,7 +5,7 @@
 </p>
 
 ---
-✨ I'm currently a data abstractor at Tempus working with cancer data and helping validate NPL models. While working, I'm obtaining my Master of Science at Data Science from the University of Denver where I'm developing my growing interest in data and Machine Learning. 
+✨ I'm currently a data abstractor at Tempus working with cancer data and helping validate NPL models. While working, I'm obtaining my Master of Science in Data Science from the University of Denver where I'm developing my growing interest in data and Machine Learning. 
 Currently through coursework and projects, I have become well-versed in Python (pandas,numpy,scipy,tensorflow,seaborn,matplotlib, etc.), R, and my/noSQL. I feel strong about my skills working with data, machine learning, and visualization!
 I love sharing my experiences with others and when I'm not coding, you can find me playing video games, practiving guitar, and geeking about coffee.
 
