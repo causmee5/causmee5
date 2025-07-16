@@ -6,5 +6,5 @@
 
 ---
 - 😄 My Pronouns: He/Him/They   
-- 💬 Ask me about: League of Legends, Music, Cooking, and Tech.
+- 💬 Ask me about: Video Games, Music, Cooking, and Tech.
 - ⚡ Fun fact: I'm a first generation American with Estonian heritage! I'm a board member of the Chicago Estonian House where I've grown up celebrating heritage and growing into my independence and identity.
